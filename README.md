@@ -1,4 +1,4 @@
-# validation-laravel
+# Validation-Laravel
 ## How to Customize Validation Laravel 
 
 ### Langkah Langkah mengcustom validasi form error di laravel
