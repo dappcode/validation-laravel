@@ -54,7 +54,6 @@
     ```
 
     - lalu di bagian functiion dari insert data nya tepatnya di `function store()` tambahkan seperti ini : 
-    
     ```php
     public function store(ErrorFromRequest $request)
     {
