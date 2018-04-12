@@ -60,6 +60,5 @@
     {
     // tidak ada tambahan fungsi yang special di sini!!!
     }
-
     ```
 
